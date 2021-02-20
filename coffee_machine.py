@@ -4,7 +4,7 @@ def print_supplies():
 {supplies[1]} of milk
 {supplies[2]} of coffee beans
 {supplies[3]} of disposable cups
-{supplies[4]} of money\n''')
+${supplies[4]} of money\n''')
 
 
 def buy():
